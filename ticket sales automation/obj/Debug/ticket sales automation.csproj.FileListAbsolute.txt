@@ -1,0 +1,7 @@
+D:\projelerim\ticket sales automation\ticket sales automation\bin\Debug\ticket sales automation.exe.config
+D:\projelerim\ticket sales automation\ticket sales automation\bin\Debug\ticket sales automation.exe
+D:\projelerim\ticket sales automation\ticket sales automation\bin\Debug\ticket sales automation.pdb
+D:\projelerim\ticket sales automation\ticket sales automation\obj\Debug\ticket sales automation.csproj.AssemblyReference.cache
+D:\projelerim\ticket sales automation\ticket sales automation\obj\Debug\ticket sales automation.csproj.CoreCompileInputs.cache
+D:\projelerim\ticket sales automation\ticket sales automation\obj\Debug\ticket sales automation.exe
+D:\projelerim\ticket sales automation\ticket sales automation\obj\Debug\ticket sales automation.pdb
